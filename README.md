@@ -1,2 +1,15 @@
-# CreepyFly-2D-Another-Flappy-Bird-Clone-Touch-and-keyboard-Optimized-Unity3D-c-
 A very creepy flappy bird clone
+
+Flappy Bird is a 2013 mobile game, developed by Vietnam-based developer Nguyễn Hà Đông (Dong Nguyen) and published by .GEARS Studios, a small, independent game developer also based in Vietnam.[4] The game is a side-scroller where the player controls a bird, attempting to fly between rows of green pipes without hitting them. The developer created the game over several days, using a bird protagonist which he had designed for a cancelled game in 2012.
+
+The game was released in May 2013 but received a sudden rise in popularity in early 2014. It was criticized for its level of difficulty and alleged plagiarism in graphics and game mechanics, while other reviewers found it addictive. At the end of January 2014, it was the most downloaded free game in the iOS App Store. During this period, its developer claimed that Flappy Bird was earning $50,000 a day from in-app advertisements as well as sales.
+
+Flappy Bird was removed from both Apple's App Store and Google Play by its creator on February 10, 2014, due to guilt over what he considered to be its addictive nature and overuse. The game's popularity and sudden removal caused phones with it pre-installed to be put up for sale for high prices over the Internet.Games similar to Flappy Bird became popular on the iTunes App Store in the wake of its removal, and both Apple and Google have removed games from their app stores for being too similar to the original. The game has also been distributed through unofficial channels on multiple platforms.
+
+In August 2014, a revised version of Flappy Bird, called Flappy Birds Family, was released exclusively for the Amazon Fire TV. Bay Tek Games also released a licensed coin-operated Flappy Bird arcade game.
+
+lappy Bird was originally released on May 24, 2013, with support for the iPhone 5. The game was subsequently updated for iOS 7 in September 2013. In January 2014, it topped the Free Apps chart in the US and Chinese App Stores and later that month topped the same section of the UK App Store where it was touted as "the new Angry Birds".It ended January as the most downloaded App on the App Store.The Android version of Flappy Bird was released to the Google Play store on January 30, 2014.In early 2014, Nguyen claimed in an interview with The Verge that the game was earning around $50,000 a day in revenue through its in-game advertising.
+
+The removal has spawned remakes and parodies of the game,[31] such as Sesame Street's Flappy Bert[36] and Fall Out Boy's Fall Out Bird.[37] Flappy Bird became one of the most cloned games in Apple's App Store.[38] At the peak of its popularity, over 60 clones per day[39] were appearing on the App Store, prompting both Google and Apple to begin rejecting games with the word "Flappy" in the name.[40] CNET reviewed seven "Flappy copycats" for iOS two days after the original game's removal, describing the options as "pretty bleak", but singling out the underwater Splashy Fish as the closest approximation of Flappy Bird.
+
+To Practice unity2d let's clone flappy bird.
